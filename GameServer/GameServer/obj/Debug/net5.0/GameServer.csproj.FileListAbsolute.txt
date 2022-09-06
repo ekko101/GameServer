@@ -1,0 +1,16 @@
+H:\cyx\GameServer\GameServer\GameServer\bin\Debug\net5.0\GameServer.exe
+H:\cyx\GameServer\GameServer\GameServer\bin\Debug\net5.0\GameServer.deps.json
+H:\cyx\GameServer\GameServer\GameServer\bin\Debug\net5.0\GameServer.runtimeconfig.json
+H:\cyx\GameServer\GameServer\GameServer\bin\Debug\net5.0\GameServer.runtimeconfig.dev.json
+H:\cyx\GameServer\GameServer\GameServer\bin\Debug\net5.0\GameServer.dll
+H:\cyx\GameServer\GameServer\GameServer\bin\Debug\net5.0\ref\GameServer.dll
+H:\cyx\GameServer\GameServer\GameServer\bin\Debug\net5.0\GameServer.pdb
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\GameServer.csproj.AssemblyReference.cache
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\GameServer.AssemblyInfoInputs.cache
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\GameServer.AssemblyInfo.cs
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\GameServer.csproj.CoreCompileInputs.cache
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\GameServer.dll
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\ref\GameServer.dll
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\GameServer.pdb
+H:\cyx\GameServer\GameServer\GameServer\obj\Debug\net5.0\GameServer.genruntimeconfig.cache
